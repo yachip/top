@@ -1,0 +1,30 @@
+
+@font-face {
+	font-family: 'PFDinDisplayPro-Reg';
+	src: url("") format('opentype');
+}
+@font-face {
+	font-family: 'PFDinTextCompPro-Bold';
+	src: url("PFDinTextCompPro-Bold.ttf") format('opentype');
+}
+@font-face {
+	font-family: 'PFDinTextCompPro-BoldItal';
+	src: url("") format('opentype');
+}
+@font-face {
+	font-family: 'PFDinTextCondPro-Bold';
+	src: url("PFDinTextCondPro-Bold.ttf") format('opentype');
+}
+
+@font-face {
+	font-family: 'PFDinTextCondPro-Italic';
+	src: url("") format('opentype');
+}
+
+@font-face {
+	font-family: 'PFDinTextCondPro-Regular';
+	src: url("PFDinTextCondPro-Regular.ttf") format('opentype');
+}
+
+
+
